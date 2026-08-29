@@ -327,6 +327,3 @@ Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) before cont
 
 ---
 
-## License
-
-This project is licensed under the [CC0 1.0 Universal](https://chatgpt.com/c/LICENSE) license.
