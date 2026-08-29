@@ -7,7 +7,6 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 **Everything listed here is free to use**, either completely free, open source, or available through a meaningful free tier.
 
-> 💡 Know a great resource that isn't listed? [Contributions are welcome!](https://chatgpt.com/c/CONTRIBUTING.md)
 
 ---
 
