@@ -24,7 +24,9 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Visual Studio Code](https://code.visualstudio.com/) - Free source-code editor with support for extensions, debugging, Git, and many programming languages.
     
 - [Zed](https://zed.dev/) - Fast, modern code editor designed for collaborative development.
-    
+- [Vim](https://github.com/vim/vim)
+- [NeoVim](https://neovim.io/)
+
 
 ### Browser DevTools
 
@@ -180,7 +182,9 @@ Whether you're a beginner learning your first technology or an experienced devel
     
 - [Color Hunt](https://colorhunt.co/) - Collection of curated color palettes.
     
-
+## Ideas for websites
+- [Pinterest](https://pinterest.com/)
+- [Artstation](artstation.com)
 ---
 
 ## Deployment & Hosting
@@ -292,6 +296,13 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 
 ---
+
+
+## Notes apps
+- [Obsidian](https://obsidian.md/)
+- [Notion](https://www.notion.com/)
+
+
 
 
 ## Contributing
