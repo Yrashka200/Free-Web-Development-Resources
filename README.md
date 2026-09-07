@@ -11,6 +11,50 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 ## Contents
 
+## Contents
+
+- [Development Tools](#development-tools)
+  - [Code Editors](#code-editors)
+  - [Browser DevTools](#browser-devtools)
+  - [API Development & Testing](#api-development--testing)
+  - [Database Tools](#database-tools)
+  - [Git & GitHub](#git--github)
+  - [Terminal & CLI](#terminal--cli)
+- [Fonts](#fonts)
+- [Frontend](#frontend)
+  - [CSS Tools](#css-tools)
+  - [JavaScript](#javascript)
+  - [React](#react)
+  - [Vue](#vue)
+  - [UI Libraries](#ui-libraries)
+- [Backend](#backend)
+  - [Node.js](#nodejs)
+  - [Python](#python)
+  - [Databases](#databases)
+  - [Authentication](#authentication)
+- [Design](#design)
+  - [UI Design](#ui-design)
+  - [Icons](#icons)
+  - [Fonts](#fonts-1)
+  - [Images](#images)
+  - [Colors](#colors)
+  - [Ideas for Websites](#ideas-for-websites)
+- [Deployment & Hosting](#deployment--hosting)
+- [Cloud Services](#cloud-services)
+- [Testing](#testing)
+- [Performance](#performance)
+- [Learning](#learning)
+  - [Courses](#courses)
+  - [Documentation](#documentation)
+  - [Books](#books)
+  - [Interactive Learning](#interactive-learning)
+- [Cheat Sheets & References](#cheat-sheets--references)
+- [Generators & Converters](#generators--converters)
+- [Communication](#communication)
+- [Notes Apps](#notes-apps)
+- [Contributing](#contributing)
+
+
 ---
 
 ## Development Tools
