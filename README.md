@@ -165,6 +165,8 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 - [MongoDB](https://www.mongodb.com/) - Document-oriented database with a free tier.
 
+- [Supabase](https://supabase.com/) - A simple free DB can use for your webite or app 
+
 ### Authentication
 
 - [Auth.js](https://authjs.dev/) - Authentication solution for modern web applications.
@@ -221,6 +223,7 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Vercel](https://vercel.com/) - Platform for deploying modern frontend applications with a free tier.
 
 - [Netlify](https://www.netlify.com/) - Platform for building and deploying web applications with a free tier.
+- [Railway](https://railway.com/) - Free web hosting like Vercel 
 
 ---
 
@@ -265,6 +268,11 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [The Odin Project](https://www.theodinproject.com/) - Free full-stack web development curriculum.
 
 - [Full Stack Open](https://fullstackopen.com/) - Free course covering modern full-stack web development.
+
+  
+- [Free Python Course](https://github.com/Yrashka200/Python-for-begginers)
+
+- [Free js cource](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 ### Documentation
 
@@ -311,11 +319,11 @@ Whether you're a beginner learning your first technology or an experienced devel
 ---
 
 ## Communication
-- [Reddit](https://www.reddit.com/)
+- [Reddit](https://www.reddit.com/) - Great platform for communication with peoples, share ideas and more! 
 
 ## Notes apps
-- [Obsidian](https://obsidian.md/)
-- [Notion](https://www.notion.com/)
+- [Obsidian](https://obsidian.md/) - the bes app for  taking notes
+- [Notion](https://www.notion.com/) - Google app for taking notes 
 
 ------
 
@@ -355,6 +363,6 @@ Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) before cont
 ---
 
 <p align="center">
-  <sub>Last updated: September 7, 2026</sub>
+  <sub>Last updated: September 8, 2026</sub>
 </p>
 
