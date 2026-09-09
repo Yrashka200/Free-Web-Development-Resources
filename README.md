@@ -294,6 +294,13 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 - [Exercism](https://exercism.org/) - Free programming practice and mentorship.
 
+
+- [CodeChef](https://www.codechef.com/) - Free courses, practics with Python, C, C#, C++ and more!
+
+- [W3 school](https://www.w3schools.com) - Study, practise and learning programming with this cool website for free!
+
+- [Hacker Rank](https://www.hackerrank.com/) - Very beautifull website for learning Programming for free and 24/7
+
 ---
 
 ## Cheat Sheets & References
@@ -334,8 +341,6 @@ This project is community-driven, and contributions are welcome!
 
 If you know a useful free resource that is missing from this list, you can add it yourself by opening a Pull Request.
 
-Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) before contributing.
-
 ### Quick Contribution Rules
 
 - Make sure the resource is relevant to web development.
@@ -363,6 +368,6 @@ Please read [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) before cont
 ---
 
 <p align="center">
-  <sub>Last updated: September 8, 2026</sub>
+  <sub>Last updated: September 9, 2026</sub>
 </p>
 
