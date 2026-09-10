@@ -376,6 +376,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 9, 2026</sub>
+  <sub>Last updated: September 10, 2026</sub>
 </p>
 
