@@ -294,6 +294,8 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 - [Exercism](https://exercism.org/) - Free programming practice and mentorship.
 
+- [Roadmap SH](https://roadmap.sh/) - don't know how to learlig programming? You must have visit this website! 
+
 
 - [CodeChef](https://www.codechef.com/) - Free courses, practics with Python, C, C#, C++ and more!
 
@@ -311,6 +313,8 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 - [Can I Use](https://caniuse.com/) - Browser compatibility tables for web platform features.
 
+- [A list of developer portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
+
 ---
 
 ## Generators & Converters
@@ -326,11 +330,15 @@ Whether you're a beginner learning your first technology or an experienced devel
 ---
 
 ## Communication
-- [Reddit](https://www.reddit.com/) - Great platform for communication with peoples, share ideas and more! 
+- [Reddit](https://www.reddit.com/) - Great platform for communication with peoples, share ideas and more!
+- [Forgejo](https://forgejo.org/) - Github clone, which u can hosting locall or from [site](https://v15.next.forgejo.org/)
+
 
 ## Notes apps
 - [Obsidian](https://obsidian.md/) - the bes app for  taking notes
 - [Notion](https://www.notion.com/) - Google app for taking notes 
+- [Excalidraw](https://excalidraw.com/) - write or draw your thoughts with diograms for free!
+
 
 ------
 
