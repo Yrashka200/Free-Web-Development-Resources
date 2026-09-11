@@ -57,6 +57,12 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 ---
 
+## Official mirrors
+This archive also avaibled on this sourses:
+- [forgej](https://v15.next.forgejo.org/Yrashka200/Free-Web-Development-Resources) Status: Working ✅
+
+
+
 ## Development Tools
 
 ### Code Editors
@@ -88,6 +94,8 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [DBeaver](https://dbeaver.io/) - Free and open-source database management tool supporting many database systems.
 
 - [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating, editing, and exploring SQLite databases.
+
+- [LocalForage](https://github.com/localForage/localForage) -Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. 
 
 ### Git & GitHub
 
@@ -223,7 +231,9 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Vercel](https://vercel.com/) - Platform for deploying modern frontend applications with a free tier.
 
 - [Netlify](https://www.netlify.com/) - Platform for building and deploying web applications with a free tier.
-- [Railway](https://railway.com/) - Free web hosting like Vercel 
+- [Railway](https://railway.com/) - Free web hosting like Vercel
+
+- [Gitlab Pages example](https://gitlab.com/pages) -  Gitlab pages template 
 
 ---
 
@@ -234,6 +244,8 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Supabase](https://supabase.com/) - Open-source backend platform with a free tier.
 
 - [Firebase](https://firebase.google.com/) - Backend and application development platform with free services.
+
+- [Localstack](https://www.localstack.cloud/) -  fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ---
 
@@ -273,6 +285,10 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Free Python Course](https://github.com/Yrashka200/Python-for-begginers)
 
 - [Free js cource](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+
+- [Tutorialbar](https://tutorialbar.com/) - Free Online Courses
+
+- [Become a Fullstack Developer from zero to pro ](https://www.youtube.com/watch?v=LzMnsfqjzkA) - Free YouTube course from Free Code Camp 
 
 ### Documentation
 
@@ -376,6 +392,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 10, 2026</sub>
+  <sub>Last updated: September 11, 2026</sub>
 </p>
 
