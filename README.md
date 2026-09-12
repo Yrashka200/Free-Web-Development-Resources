@@ -53,6 +53,7 @@ Whether you're a beginner learning your first technology or an experienced devel
 - [Communication](#communication)
 - [Notes Apps](#notes-apps)
 - [Contributing](#contributing)
+- [AI agents](#AI)
 
 
 ---
@@ -359,6 +360,20 @@ This archive also avaibled on this sourses:
 ------
 
 
+
+## AI
+-[Depseek](https://chat.deepseek.com/) - This model great for code review or like your code opponent 
+-[ChatGPT](https://chatgpt.com/) - This is the most powerfull AI models which you can using for: Analyzing your code, to practice and test your programming skills and more!
+-[Open Code](https://opencode.ai/) - It can be used to evaluate the current code, but you shouldn't use it too much!
+-[Gemini](https://gemini.google.com/) - You can use this service as a scraper to browse websites while looking for the right solution (disclaimer: Always verify the results; AI can provide incorrect information!)
+
+
+
+
+
+
+
+
 ## Contributing
 
 This project is community-driven, and contributions are welcome!
@@ -392,6 +407,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 11, 2026</sub>
+  <sub>Last updated: September 12, 2026</sub>
 </p>
 
