@@ -363,8 +363,11 @@ This archive also avaibled on this sourses:
 
 ## AI
 -[Depseek](https://chat.deepseek.com/) - This model great for code review or like your code opponent 
+
 -[ChatGPT](https://chatgpt.com/) - This is the most powerfull AI models which you can using for: Analyzing your code, to practice and test your programming skills and more!
+
 -[Open Code](https://opencode.ai/) - It can be used to evaluate the current code, but you shouldn't use it too much!
+
 -[Gemini](https://gemini.google.com/) - You can use this service as a scraper to browse websites while looking for the right solution (disclaimer: Always verify the results; AI can provide incorrect information!)
 
 
