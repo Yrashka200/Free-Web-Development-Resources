@@ -200,6 +200,12 @@ This archive also avaibled on this sourses:
 
 - [Tabler Icons](https://tabler.io/icons) - Free and open-source icon library.
 
+- [Favicon](https://www.flaticon.com/free-icons/favicon) - Free Favicons
+
+- [Favicon Generator](https://favicon.io/) - free Favicon genearator, conveter and more!
+
+- [Icons 8](https://icons8.com/icons) - A website featuring a huge number of icons for your projects and ideas—completely free!
+
 ### Fonts
 
 - [Google Fonts](https://fonts.google.com/) - Large collection of freely available fonts.
@@ -211,6 +217,8 @@ This archive also avaibled on this sourses:
 - [Unsplash](https://unsplash.com/) - Large collection of freely usable images.
 
 - [Pexels](https://www.pexels.com/) - Free stock photos and videos.
+
+- [unDraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create
 
 ### Colors
 
@@ -410,6 +418,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 12, 2026</sub>
+  <sub>Last updated: September 13, 2026</sub>
 </p>
 
