@@ -166,6 +166,9 @@ This archive also avaibled on this sourses:
 
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern Python framework for building APIs.
 
+  ---------
+
+
 ### Databases
 
 - [PostgreSQL](https://www.postgresql.org/) - Powerful open-source relational database.
@@ -174,7 +177,12 @@ This archive also avaibled on this sourses:
 
 - [MongoDB](https://www.mongodb.com/) - Document-oriented database with a free tier.
 
-- [Supabase](https://supabase.com/) - A simple free DB can use for your webite or app 
+- [Supabase](https://supabase.com/) - A simple free DB can use for your webite or app
+
+
+  ---------
+
+  
 
 ### Authentication
 
@@ -226,6 +234,10 @@ This archive also avaibled on this sourses:
 
 - [Color Hunt](https://colorhunt.co/) - Collection of curated color palettes.
 
+- [Online palitra generator](https://webgradients.com/palette/generator)
+
+
+
 ## Ideas for websites
 - [Pinterest](https://pinterest.com/)
 - [Artstation](https://www.artstation.com/)
@@ -268,6 +280,10 @@ This archive also avaibled on this sourses:
 
 - [Cypress](https://www.cypress.io/) - Browser-based testing framework for web applications.
 
+- [Web.Dev](https://web.dev/learn/testing) - Online course for learning testing 
+
+
+
 ---
 
 ## Performance
@@ -297,7 +313,10 @@ This archive also avaibled on this sourses:
 
 - [Tutorialbar](https://tutorialbar.com/) - Free Online Courses
 
-- [Become a Fullstack Developer from zero to pro ](https://www.youtube.com/watch?v=LzMnsfqjzkA) - Free YouTube course from Free Code Camp 
+- [Become a Fullstack Developer from zero to pro ](https://www.youtube.com/watch?v=LzMnsfqjzkA) - Free YouTube course from Free Code Camp
+
+  ---------
+  
 
 ### Documentation
 
@@ -307,6 +326,9 @@ This archive also avaibled on this sourses:
 
 - [DevDocs](https://devdocs.io/) - Fast, searchable documentation for many developer tools and programming languages.
 
+   ---------
+
+  
 ### Books
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) - Free online book about JavaScript and programming.
@@ -378,7 +400,7 @@ This archive also avaibled on this sourses:
 
 -[Gemini](https://gemini.google.com/) - You can use this service as a scraper to browse websites while looking for the right solution (disclaimer: Always verify the results; AI can provide incorrect information!)
 
-
+  --------- 
 
 
 
@@ -418,6 +440,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 13, 2026</sub>
+  <sub>Last updated: September 14, 2026</sub>
 </p>
 
