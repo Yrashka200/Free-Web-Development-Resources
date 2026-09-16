@@ -440,6 +440,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 14, 2026</sub>
+  <sub>Last updated: September 16, 2026</sub>
 </p>
 
