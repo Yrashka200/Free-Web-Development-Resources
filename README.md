@@ -58,6 +58,13 @@ Whether you're a beginner learning your first technology or an experienced devel
 
 ---
 
+## Community forks
+
+[Fork by kwinto](https://v15.next.forgejo.org/kwinto/Free-Web-Development-Resources)
+
+
+---
+
 ## Official mirrors
 This archive also avaibled on this sourses:
 - [forgej](https://v15.next.forgejo.org/Yrashka200/Free-Web-Development-Resources) Status: Working ✅
@@ -378,7 +385,10 @@ This archive also avaibled on this sourses:
 
 ## Communication
 - [Reddit](https://www.reddit.com/) - Great platform for communication with peoples, share ideas and more!
+
 - [Forgejo](https://forgejo.org/) - Github clone, which u can hosting locall or from [site](https://v15.next.forgejo.org/)
+
+- [Lemmy](https://join-lemmy.org/) - An ad-free, self-hostable open-source alternative to Reddit
 
 
 ## Notes apps
@@ -440,6 +450,6 @@ If you know a useful free resource that is missing from this list, you can add i
 ---
 
 <p align="center">
-  <sub>Last updated: September 16, 2026</sub>
+  <sub>Last updated: September 19, 2026</sub>
 </p>
 
